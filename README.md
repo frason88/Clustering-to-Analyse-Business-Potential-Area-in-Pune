@@ -1,12 +1,17 @@
-# Used-Clustering-to-Analyse-Business-Potential-Area-in-Pune City
+# Used Clustering to Analyse Business Potential Area in Pune City
 
 # Problem Statement:
 
-Pune, being a major metropolitan city in state of Maharashtra, India is a very fast developing city with plenty of opportunities for business. There are multiple potential business locations in this city. But its very difficult to decide upon the location and category or nature of the business. For someone with capital wanting to invest in or start a business, they must first know which are the areas which have good prospects for the business to run, which is the category of business with most competitors and which category is most probable to failure.
+Pune, being a major metropolitan city in state of Maharashtra, India is a very fast developing city with plenty of opportunities for business. There are multiple potential 
+business locations in this city. But its very difficult to decide upon the location and category or nature of the business. For someone with capital wanting to invest in or 
+start a business, they must first know which are the areas which have good prospects for the business to run, which is the category of business with most competitors and which 
+category is most probable to failure.
 The target audience will be the someone who wants to start a new business of some category and needs to find a location with best prospects.
 All this can be found by analyzing the venue data.
 
 *Note:* The business categories will be limited to the Categories of the venues listed by the Foursquare API.
+
+---
 
 # Understanding the Case:
 
@@ -19,14 +24,14 @@ So it needs to be clustered into different locations and named appropriately. Th
 possibility of success of preferred category.
 To further dig and explore more about the area clustered I will use data about location connectivity, nearby banks and ATM's.
 
-
+---
 # Data Collection:
 
 Data: `Area name/Neighborhood of potential locations` , `Public transport stops`, `ATM locations`,`Bank locations`
 
 Specification: Address of the area, Area name/Neighborhood or stop name, Coordinates, Area name/Neighborhood, Coordinates, Area name/Neighborhood, Coordinates
 
-source: Source: http://opendata.punecorporation.org/Citizen/CitizenDatasets/Indexcsv
+source: http://opendata.punecorporation.org/Citizen/CitizenDatasets/Indexcsv
 
 other Source: Self decided, Asked people, I might use data for the routes of the bus to show it on map. It will be possible to check how many routes lead to or pass through the 
 business locations.
