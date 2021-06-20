@@ -31,7 +31,7 @@ Data: `Area name/Neighborhood of potential locations` , `Public transport stops`
 
 Specification: Address of the area, Area name/Neighborhood or stop name, Coordinates, Area name/Neighborhood, Coordinates, Area name/Neighborhood, Coordinates
 
-source: http://opendata.punecorporation.org/Citizen/CitizenDatasets/Indexcsv
+source: http://opendata.punecorporation.org/Citizen/CitizenDatasets/
 
 other Source: Self decided, Asked people, I might use data for the routes of the bus to show it on map. It will be possible to check how many routes lead to or pass through the 
 business locations.
